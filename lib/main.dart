@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:white_paper/core/themes/color.dart';
-import 'package:white_paper/screens/home.dart';
+import 'package:white_paper/screens/home/view.dart';
 
 void main() {
   runApp(const MyApp());
